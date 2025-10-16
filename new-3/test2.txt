@@ -1,0 +1,4 @@
+Hello Students! Welcome to "Code Logs"
+
+
+git init - git initialization
